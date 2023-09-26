@@ -1,0 +1,1 @@
+$(document).ready(function() {jQuery.validator.setDefaults({errorClass : 'formError'});$('#entry img[title]').tooltip(); $('#entry').validate({rules : {'id':{required:true,number:true},'schoolRegion':{required:true,number:true},'level':{required:true,number:true},'mode':{required:true,number:true},'zone':{required:true,number:true},}});});

@@ -1,0 +1,102 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+body {
+  padding-bottom: 40px;
+}
+
+.form-signin {
+  max-width: 750px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.textLabel{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+}
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900;
+}
+h3{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+}
+
+input[type=text]{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-style: Bold;
+}
+.login{
+	text-align: center;
+}
+
+.formError{
+	color: red;
+}
+
+.container h3{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.instructions {
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+	font-size: 16px;
+	padding: 5px;
+}
+     
+#instructions{
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+	font-size: 16px;
+	padding: 5px;
+}
+
+.custom-bullet li {
+    display: block;
+    padding-bottom: 1em;
+}
+
+.custom-bullet li:before{
+    /*Using a Bootstrap glyphicon as the bullet point*/
+    content: "\e080";
+    font-family: 'Glyphicons Halflings';
+    font-size: 10px;
+    float: left;
+    margin-top: 4px;
+    margin-left: -17px;
+    color: #CCCCCC;
+}
+
+#entry{
+	padding-bottom: 15px;
+}

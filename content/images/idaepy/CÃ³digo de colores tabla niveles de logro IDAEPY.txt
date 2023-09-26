@@ -1,0 +1,17 @@
+Titulo mate:     #fea520     R- 254     G-165      B-32
+
+Título español   #30ab9e     R- 48      G- 171     B-158
+
+Título CN:       #f55532     R- 245     G- 85      B-50
+
+
+
+Nivel básico:      #b21270     R- 178     G- 18       B-112
+
+Nivel medio:       #f77c16     R- 247     G- 124      B-22
+
+Nivel avanzado:    #1c9953     R- 28      G- 153      B-83
+
+
+
+Líneas      #f77c16     R- 247     G- 124      B-22

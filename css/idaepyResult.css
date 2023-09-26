@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+body {
+  padding-bottom: 40px;
+  font-family: 'Lato', sans-serif;
+}
+
+.container h3 {
+  font-weight: bold;
+  font-size: 32px;
+  text-align: center;
+}
+
+.divSchool{
+  padding-top: 20px;
+}
+
+.divSchool h4{
+  font-weight: bold;
+}
+
+.divDataSchool{
+  font-size: 18px;
+}
+
+.divState{
+  border: solid 1px #bdbdbd;
+}
+
+#subjectDiv .nav-tabs > li#mathsTab > a:hover {
+  border-radius: 4px 4px 0 0 ;
+  background-color: #819BCC;
+}
+
+#subjectDiv .nav-tabs > li#spanishTab > a:hover {
+  border-radius: 4px 4px 0 0 ;
+  background-color: #A8D38B;
+}
+
+#subjectDiv .nav-tabs > li#sciencesTab > a:hover {
+  border-radius: 4px 4px 0 0 ;
+  background-color: #D791B6;
+}
+
+#subjectDiv .tab-content h3 {
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+#subjectDiv .tab-content h4 {
+  font-weight: bold;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.divStudent p, li {
+  font-size: 20px;
+}
+
+.chart{
+  /* margin-left: 25px; */
+  margin: auto;
+  text-align: center;
+  width: 50%;
+}
+
+@media (max-width: 850px) {
+  .chart{
+    /* margin-left: 25px; */
+    margin: auto;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+#achievement1 {
+  color: #222;
+  background-color: #F08563;
+  text-decoration: none;
+}
+
+#achievement2 {
+  color: #222;
+  background-color: #FCC76B;
+  text-decoration: none;
+}
+
+#achievement3 {
+  color: #222;
+  background-color: #F7F085;
+  text-decoration: none;
+}
+
+#achievement4 {
+  color: #222;
+  background-color: #B9E085;
+  text-decoration: none;
+}
+
+.divStudent{
+  padding-top: 15px;
+}
+
+.dataDiv{
+  padding-top: 15px;
+}

@@ -1,0 +1,20 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+.table th {
+   text-align: center;   
+}
+
+.tableText{
+	text-align: left;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.tableText2{
+	text-align: justify;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.math{
+	text-align: left;
+	font-size: 12px;
+}

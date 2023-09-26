@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+#pdfReport {
+  padding-bottom: 40px;
+  font-family: 'Lato', sans-serif;
+  border-style: solid;
+  border: 1px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 32px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+#logo{
+  border-style: solid;
+  border: 1px;
+  width: 200px;
+  height: auto;
+}
+
+/* table.tableSchool{
+  border: 1px solid black;
+} */
+
+.tableStudent td{
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+}
+
+.tableData{
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.tableData{
+  width: 100%;
+  font-family: 'Lato', sans-serif;
+}
+
+.tableSchool td{
+  padding: 16px 8px;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+
+.divState img {
+  text-align: center;
+}
+
+.chartImg{
+  text-align: center;
+}
+
+.imgData{
+  width: 500px;
+  height: auto;
+}
+
+.tab-content p, li, b {
+  font-size: 18px;
+  font-family: 'Lato', sans-serif;
+}
+
+.tab-content li {
+  font-size: 17px;
+  font-family: 'Lato', sans-serif;
+}
+
+#achievementTable {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+}
+
+#achievement1 {
+  font-size: 18px;
+  color: #222;
+  background-color: #F08563;
+  font-family: 'Lato', sans-serif;
+}
+
+#achievement2 {
+  font-size: 18px;
+  color: #222;
+  background-color: #FCC76B;
+  font-family: 'Lato', sans-serif;
+}
+
+#achievement3 {
+  font-size: 18px;
+  color: #222;
+  background-color: #F7F085;
+  font-family: 'Lato', sans-serif;
+}
+
+#achievement4 {
+  font-size: 18px;
+  color: #222;
+  background-color: #B9E085;
+  font-family: 'Lato', sans-serif;
+}

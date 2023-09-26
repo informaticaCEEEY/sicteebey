@@ -1,0 +1,29 @@
+
+.projects  h3{
+	font-size: 20px;
+}
+
+.fade {
+opacity: 0;
+-webkit-transition: opacity 1.25s linear;
+  -moz-transition: opacity 1.25s linear;
+   -ms-transition: opacity 1.25s linear;
+	-o-transition: opacity 1.25s linear;
+	   transition: opacity 1.25s linear;
+}
+
+.nav-pills > li > a {
+	color: #938d8f;
+}
+
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover,.nav-pills > li > a:hover {
+text-decoration: none;
+font-weight: bold;
+border-radius:0px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+border-bottom-color: #700a1e;
+    color: #000 !important;
+  background-color: transparent !important;
+}

@@ -1,0 +1,20 @@
+/*.fade {
+opacity: 0;
+-webkit-transition: opacity 2.25s linear;
+  -moz-transition: opacity 2.25s linear;
+   -ms-transition: opacity 2.25s linear;
+	-o-transition: opacity 2.25s linear;
+	   transition: opacity 2.25s linear;
+}*/
+
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover,.nav-pills > li > a:hover {
+text-decoration: none;
+font-weight: bold;
+border-radius:0px;
+border-bottom-width: 4px;
+border-bottom-style: solid;
+border-bottom-color: #FF6600;
+    color: #000 !important;
+  background-color: transparent !important;
+}

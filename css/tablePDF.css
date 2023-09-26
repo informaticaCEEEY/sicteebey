@@ -1,0 +1,96 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+/*.container-fluid{
+  padding: 20px 100px;
+  margin: 20px;
+}*/
+
+body {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#header{
+  padding-top: -10px;
+}
+
+.table td, .table th{
+	text-align: center;
+	vertical-align : middle !important;
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+
+.table th {
+	font-weight: bold;
+}
+
+.table{
+	font-family: 'Open Sans', sans-serif;
+	border: 1px solid #ddd;
+	border-collapse: collapse;
+	width: 100%;
+  margin-bottom: 20px;
+	border-spacing: 0;
+}
+
+.table2 td, .table2 th{
+	text-align: left;
+	vertical-align : middle !important;
+	border: none;
+}
+
+.table2 th {
+	font-weight: bold;
+}
+
+.table2{
+	font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+	border: none;
+  margin-bottom: 10px;
+}
+
+td.theadR{
+	vertical-align : middle !important;
+}
+
+.table .warning {
+	background-color: #fcf8e3;
+	text-align: center;
+	vertical-align : middle !important;
+	border: 1px solid #ddd;
+}
+
+.table .success {
+	background-color: #dff0d8;
+	text-align: center;
+	vertical-align : middle !important;
+	border: 1px solid #ddd;
+}
+
+.text-center {
+	text-align: center;
+	vertical-align : middle !important;
+}
+
+.text-right {
+	text-align: right;
+	vertical-align : middle !important;
+}
+
+.text-center h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+	padding-left: 0px;
+	margin-top: 10px;
+  margin-top: 10px;
+}
+
+.text-right h4 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 550;
+	font-size: 18px;
+	padding-left: 0px;
+	margin-top: 10px;
+}

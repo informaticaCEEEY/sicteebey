@@ -1,0 +1,33 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+/*.container-fluid{
+  padding: 20px 100px;
+  margin: 20px;
+}*/
+
+@media screen and (max-width: 600px) {
+	.container-fluid{
+	  	padding-top: 20px;
+	  	margin: 5px;
+	}
+}
+
+body {
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+.table td, .table th {
+   text-align: center;
+}
+
+.table{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.reportPDF{
+	font-family: 'Open Sans', sans-serif;
+}
+
+td.theadR{
+	vertical-align : middle !important;
+}

@@ -1,0 +1,72 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+body {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#header{
+  padding-top: 0;
+}
+
+.table, .table th {
+	text-align: center;
+}
+
+.form-signin-heading{
+	padding-left: 0px;
+	margin-top: 0px;
+}
+
+h2.form-signin-heading{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	padding-left: 0px;
+	margin-top: 0px;
+}
+
+h4.form-signin-heading{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	padding-left: 0px;
+	margin-top: 0px;
+}
+
+h4{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 550;
+	font-size: 18px;
+	padding-left: 0px;
+	margin-top: 10px;
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+	padding-left: 0px;
+	margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.graphSchool{
+	padding-left: 0px;
+	margin-top: 0px;
+}
+
+.table-responsive{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+a:link{
+	color: #000000;
+}
+
+a:focus, a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+td.theadR{
+	vertical-align : middle !important;
+}

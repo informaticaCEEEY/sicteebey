@@ -1,0 +1,117 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+@import url(//fonts.googleapis.com/css?family=Nunito+Sans:400,300,600,700,800);
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.form-signin {
+  max-width: 100%;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+
+.form-signin .checkbox {
+  font-weight: normal;
+}
+
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.logo{
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.logo>img{
+  text-align: center;
+  height: 30%;
+  width: 30%;
+}
+
+.form-signin-heading{
+	text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.form-signin-heading h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.form-signin-body {
+  max-width: 80%;
+  padding: 0 15px 15px 15px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.form-signin-body h3{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+}
+
+.form-signin-content {
+  padding-top: 10px;
+  text-align: left;
+  margin: 0 auto;
+  width: 50%;
+}
+
+@media (max-width: 850px) {
+  .form-signin-content {
+    padding-top: 10px;
+    text-align: left;
+    margin: 0 auto;
+    width: auto;
+  }
+}
+
+.form-signin-content label{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+  width: auto;
+}
+
+label.formError{
+	color: #a94442;
+  font-size: 16px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+}

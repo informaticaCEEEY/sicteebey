@@ -1,0 +1,1 @@
+$(document).ready(function() {jQuery.validator.setDefaults({errorClass : 'formError'});$('#entry img[title]').tooltip(); $('#entry').validate({rules : {'id':{required:true,number:true},'indexList':{required:true,number:true},'media':{required:true,number:true},'total':{required:true,number:true},}});});

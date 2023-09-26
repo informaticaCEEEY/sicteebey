@@ -1,0 +1,94 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+.go-top {
+	position: fixed;
+	bottom: 70px;
+	right: 2em;
+	text-decoration: none;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.3);
+	font-size: 12px;
+	padding: 1em;
+	display: none;
+}
+
+.go-top:hover {
+	background-color: rgba(0, 0, 0, 0.6);
+	text-decoration: none;
+	color: #F5F5F5
+}
+
+/*@media (max-width: 600px) {
+
+ .div-top {
+ display: none;
+ }
+ }*/
+
+ .buttonReport {
+ 	display: inline-block;
+ 	border-radius: 4px;
+ 	background-color: #1e97f4;
+ 	border: none;
+ 	color: #FFFFFF;
+ 	text-align: center;
+ 	font-size: 14px;
+ 	padding: 10px;
+ 	width: 200px;
+ 	transition: all 0.5s;
+ 	cursor: pointer;
+ 	margin: 5px;
+ 	vertical-align : middle !important;
+ }
+
+ .buttonReport span {
+ 	cursor: pointer;
+ 	display: inline-block;
+ 	position: relative;
+ 	transition: 0.5s;
+ 	vertical-align : middle !important;
+ }
+
+.buttonBack {
+	display: inline-block;
+	border-radius: 4px;
+	background-color: #f4511e;
+	border: none;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 14px;
+	padding: 10px;
+	width: 200px;
+	transition: all 0.5s;
+	cursor: pointer;
+	margin: 5px;
+	vertical-align : middle !important;
+}
+
+.buttonBack span {
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+	vertical-align : middle !important;
+}
+
+.buttonBack span:after {
+	content: '<<';
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	left: -20px;
+	transition: 0.5s;
+	vertical-align: middle !important;
+}
+
+.buttonBack:hover span {
+	padding-left: 25px;
+	vertical-align: middle !important;
+}
+
+.buttonBack:hover span:after {
+	vertical-align: middle !important;
+	opacity: 1;
+	left: 0;
+}
