@@ -47,10 +47,6 @@ abstract class AbstractDAO {
 	public function sanitizesql($link, $data) {
 
 		$data = trim($data);
-		if (get_magic_quotes_gpc()) {
-
-			$data = stripslashes($data);
-		}
 		$data = str_replace("'", "''", $data);;
 		return $data;
 	}

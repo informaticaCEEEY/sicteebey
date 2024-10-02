@@ -62,22 +62,22 @@ if(isset($user)){
 							<a href="../trayectorias.php">Descripci&oacute;n del proyecto</a>
 						</li>
 						<li>
-							<a href="../<?php echo $user->getAbbreviation() ?>/general.php">Reporte general</a>
+							<a href="<?php echo $user->getAbbreviation() ?>/general.php">Reporte general</a>
 						</li>
 						<li>
-							<a href="../<?php echo $user->getAbbreviation() ?>/gender.php">Reporte por sexo</a>
+							<a href="<?php echo $user->getAbbreviation() ?>/gender.php">Reporte por sexo</a>
 						</li>
 						<li>
-							<a href="../<?php echo $user->getAbbreviation() ?>/mode.php">Reporte por modalidad</a>
+							<a href="<?php echo $user->getAbbreviation() ?>/mode.php">Reporte por modalidad</a>
 						</li>
             <li>
-							<a href="../<?php echo $user->getAbbreviation() ?>/generalRegion.php">Reporte por región</a>
+							<a href="<?php echo $user->getAbbreviation() ?>/generalRegion.php">Reporte por región</a>
 						</li>
 						<li>
-							<a href="../<?php echo $user->getAbbreviation() ?>/generalZone.php">Reporte por zona</a>
+							<a href="<?php echo $user->getAbbreviation() ?>/generalZone.php">Reporte por zona</a>
 						</li>
 						<li>
-							<a href="../<?php echo $user->getAbbreviation() ?>/generalSchool.php">Reporte por escuela</a>
+							<a href="<?php echo $user->getAbbreviation() ?>/generalSchool.php">Reporte por escuela</a>
 						</li>
 					</ul>
 				</li>
@@ -85,7 +85,7 @@ if(isset($user)){
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Cuestionarios de contexto <span class="caret"></span></a>
 					<ul class="dropdown-menu">
 						<li>
-							<a href="../contexto.php">Descripci&oacute;n del proyecto</a>
+							<a href="contexto.php">Descripci&oacute;n del proyecto</a>
 						</li>
 						<li>
               <a onclick="document.forms.context15.submit()" style="cursor:pointer;">Contexto 2015 y 2016</a>
