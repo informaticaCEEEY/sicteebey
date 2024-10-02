@@ -17,7 +17,7 @@ if(isset($_POST['year'])){
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="description" content="">
   <meta name="author" content="">
-  <link rel="icon" href="../img/logog.ico">
+  <link rel="icon" href="../img/favicon_.png">
 
   <title>Centro de Evaluaci&oacute;n Educativa del Estado de Yucat&aacute;n</title>
 

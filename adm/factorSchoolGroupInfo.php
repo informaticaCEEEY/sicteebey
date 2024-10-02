@@ -37,7 +37,7 @@ if (!$factorObject || !($schoolObject)) {
     <meta name="description" content="">
     <meta name="keywords" content="">
     <title>Cuestionarios de Contexto</title>
-    <link rel="icon" href="../img/logog.ico">
+    <link rel="icon" href="../img/favicon_.png">
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/buttonTop.css" rel="stylesheet">
     <link href="../css/header.css" rel="stylesheet">

@@ -48,7 +48,7 @@ $gender[2] = 'Mujeres';
         <title>Trayectorias Escolares</title>
         <!--link href="css/screen.css" rel="stylesheet" type="text/css" /-->
         <!--link rel="stylesheet" href="css/jquery-ui-1.8.4.custom.css" type="text/css"/-->
-        <link rel="icon" href="../img/logog.ico">       
+        <link rel="icon" href="../img/favicon_.png">       
         <!--link href="css/jquery-confirm.css" rel="stylesheet" type="text/css"  /-->
         <script src="../lib/jquery/jquery.min.js"></script>
         <script src="../lib/bootstrap/bootstrap.js"></script>       

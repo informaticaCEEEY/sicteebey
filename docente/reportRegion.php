@@ -53,7 +53,7 @@ $cohorteName = $schoolPeriod[0]->getCohorteObject()->getName();
 		<title>Trayectorias Escolares</title>
 		<!--link href="css/screen.css" rel="stylesheet" type="text/css" /-->
     <!--link rel="stylesheet" href="css/jquery-ui-1.8.4.custom.css" type="text/css"/-->
-    <link rel="icon" href="../img/logog.ico">
+    <link rel="icon" href="../img/favicon_.png">
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link href="../css/buttonTop.css" rel="stylesheet">
     <link href="../css/footer.css" rel="stylesheet">
